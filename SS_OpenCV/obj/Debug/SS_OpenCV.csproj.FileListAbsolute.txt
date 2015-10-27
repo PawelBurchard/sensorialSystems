@@ -1,0 +1,58 @@
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.exe
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.pdb
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\ResolveAssemblyReference.cache
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.AuthorsForm.resources
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.InputBox.resources
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.MainForm.resources
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.Properties.Resources.resources
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\bin\Debug\SS_OpenCV.exe.config
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\bin\Debug\SS_OpenCV.exe
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2012-2013\pratica\SS_OpenCV\SS_OpenCV\bin\Debug\SS_OpenCV.pdb
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2013-2014\Pratica\SS_OpenCV\SS_OpenCV\bin\Debug\SS_OpenCV.exe.config
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2013-2014\Pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.exe
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2013-2014\Pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.pdb
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2013-2014\Pratica\SS_OpenCV\SS_OpenCV\bin\Debug\SS_OpenCV.exe
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2013-2014\Pratica\SS_OpenCV\SS_OpenCV\bin\Debug\SS_OpenCV.pdb
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2013-2014\Pratica\SS_OpenCV\SS_OpenCV\obj\Debug\ResolveAssemblyReference.cache
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2013-2014\Pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.AuthorsForm.resources
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2013-2014\Pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.InputBox.resources
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2013-2014\Pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.MainForm.resources
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2013-2014\Pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.Properties.Resources.resources
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2013-2014\Pratica\SS_OpenCV\SS_OpenCV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\andre\Users\atm\Aulas\Sistemas Sensoriais\2013-2014\Pratica\SS_OpenCV\SS_OpenCV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2014-2015\pratica\SS_OpenCV\SS_OpenCV\bin\Debug\SS_OpenCV.exe.config
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2014-2015\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.exe
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2014-2015\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.pdb
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2014-2015\pratica\SS_OpenCV\SS_OpenCV\bin\Debug\SS_OpenCV.exe
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2014-2015\pratica\SS_OpenCV\SS_OpenCV\bin\Debug\SS_OpenCV.pdb
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2014-2015\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.csprojResolveAssemblyReference.cache
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2014-2015\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.AuthorsForm.resources
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2014-2015\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.InputBox.resources
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2014-2015\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.MainForm.resources
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2014-2015\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.Properties.Resources.resources
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2014-2015\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.csproj.GenerateResource.Cache
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2015-2016\pratica\SS_OpenCV\SS_OpenCV\bin\Debug\SS_OpenCV.exe.config
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2015-2016\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.exe
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2015-2016\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.pdb
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2015-2016\pratica\SS_OpenCV\SS_OpenCV\bin\Debug\SS_OpenCV.exe
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2015-2016\pratica\SS_OpenCV\SS_OpenCV\bin\Debug\SS_OpenCV.pdb
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2015-2016\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.csprojResolveAssemblyReference.cache
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2015-2016\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.AuthorsForm.resources
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2015-2016\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.InputBox.resources
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2015-2016\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.MainForm.resources
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2015-2016\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.Properties.Resources.resources
+C:\andre\users\atm\Aulas\Sistemas Sensoriais\2015-2016\pratica\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.csproj.GenerateResource.Cache
+C:\Users\Paweł\Desktop\mutimedia\chcesz być bogaty to rusz dupe\semestr 9\SS\SS_OpenCV\SS_OpenCV\bin\Debug\SS_OpenCV.exe.config
+C:\Users\Paweł\Desktop\mutimedia\chcesz być bogaty to rusz dupe\semestr 9\SS\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.exe
+C:\Users\Paweł\Desktop\mutimedia\chcesz być bogaty to rusz dupe\semestr 9\SS\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.pdb
+C:\Users\Paweł\Desktop\mutimedia\chcesz być bogaty to rusz dupe\semestr 9\SS\SS_OpenCV\SS_OpenCV\bin\Debug\SS_OpenCV.exe
+C:\Users\Paweł\Desktop\mutimedia\chcesz być bogaty to rusz dupe\semestr 9\SS\SS_OpenCV\SS_OpenCV\bin\Debug\SS_OpenCV.pdb
+C:\Users\Paweł\Desktop\mutimedia\chcesz być bogaty to rusz dupe\semestr 9\SS\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\Desktop\mutimedia\chcesz być bogaty to rusz dupe\semestr 9\SS\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.AuthorsForm.resources
+C:\Users\Paweł\Desktop\mutimedia\chcesz być bogaty to rusz dupe\semestr 9\SS\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.InputBox.resources
+C:\Users\Paweł\Desktop\mutimedia\chcesz być bogaty to rusz dupe\semestr 9\SS\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.MainForm.resources
+C:\Users\Paweł\Desktop\mutimedia\chcesz być bogaty to rusz dupe\semestr 9\SS\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.Properties.Resources.resources
+C:\Users\Paweł\Desktop\mutimedia\chcesz być bogaty to rusz dupe\semestr 9\SS\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.csproj.GenerateResource.Cache
+C:\Users\Paweł\Desktop\mutimedia\chcesz być bogaty to rusz dupe\semestr 9\SS\SS_OpenCV\SS_OpenCV\obj\Debug\SS_OpenCV.weightMatrix.resources
